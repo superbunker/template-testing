@@ -1,8 +1,8 @@
 ---
-name: Bug Report
-about: Template for creating new standard issues.
+name: "Bug Report"
+about: "there seems to be a problem"
 title: ''
-labels: ''
+labels: 'needs triage'
 assignees: ''
 
 ---
